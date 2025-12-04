@@ -3,7 +3,6 @@
 
 Upcoming Electrical Engineering at CSUF planning to graduate in 2028.
 
-
 ## Computer Science Projects
 
 My GitHub page is http://github.com/Khngo422960.
@@ -16,7 +15,7 @@ My GitHub page is http://github.com/Khngo422960.
 
 * Lab 6, Part 2
 
-    Shocker, I know. Counterpoint? Blackjack is fun, with or without bets. The few times where I lucked my way into an instant win is both comical and euphoric. Using boolean functions is something i am no stranger to, only exception being using multiple booleans to differentiate the type of card and its score. What actually mesmerized Me was actually not only using the command line as an input but also the conversion from string to integer which was something I was not aware of at the time.
+    Shocker, I know. Counterpoint? Blackjack is fun, with or without bets. The few times where I lucked my way into an instant win is both comical and euphoric. Using boolean functions is something I am no stranger to, only exception being using multiple booleans to differentiate the type of card and its score. What actually mesmerized Me was actually not only using the command line as an input but also the conversion from string to integer which was something I was not aware of at the time.
 
 * Lab 10
 
